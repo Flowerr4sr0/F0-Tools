@@ -1,3 +1,7 @@
 # F0 Tools
 
- a tools extension for chrome.
+## WARNING
+NOTE THIS EXTENSION IS UNPACKED DO NOT USE IT YET UNTIL THIS MESSAGE IS GONE.
+
+## Description 
+a tools extension for chrome.
