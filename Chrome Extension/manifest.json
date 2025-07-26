@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "a browser tools extension",
     "icons": {
-      "default": "favicon.png"
+      "16": "favicon.png"
     },
     "action": {
       "default_popup": "popup.html"
