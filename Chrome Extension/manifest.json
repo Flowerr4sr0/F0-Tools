@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Flower_r4sr0 Tools",
+    "version": "1.0",
+    "description": "a browser tools extension",
+    "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "storage",
+      "activeTab"
+    ]
+}
